@@ -2,7 +2,7 @@
 
 si quieres crear un proyecto con ReactJs te recomiendo que visites este link [Create React App](https://github.com/facebook/create-react-app).
 
-## IMPORANTE
+## Importante
 
 si entras en cada uno de los commits podras ver como fue mi proceso paso a paso de lo que fui aprendiendo en el curso de react, y si quieres algo en especifico buscarlo en alguno de los commits
 del proyecto y alli lo encontraras!.
